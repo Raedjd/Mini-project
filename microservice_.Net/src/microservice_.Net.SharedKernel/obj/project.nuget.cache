@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QawlYUozfj9o/KWsUffOrbAQht82nSvs/JW24jXEZmb//tvX/28aaU0hpqE97OFQQAe64gutgtep0j8hKlMfQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi\\Desktop\\microservice_.Net\\src\\microservice_.Net.SharedKernel\\microservice_.Net.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
