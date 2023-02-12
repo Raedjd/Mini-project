@@ -1,0 +1,12 @@
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.AssemblyInfo.cs
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\bin\Debug\net6.0\Microservice_DotNET.SharedKernel.deps.json
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\bin\Debug\net6.0\Microservice_DotNET.SharedKernel.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\bin\Debug\net6.0\Microservice_DotNET.SharedKernel.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\refint\Microservice_DotNET.SharedKernel.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\Microservice_DotNET.SharedKernel.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.SharedKernel\obj\Debug\net6.0\ref\Microservice_DotNET.SharedKernel.dll

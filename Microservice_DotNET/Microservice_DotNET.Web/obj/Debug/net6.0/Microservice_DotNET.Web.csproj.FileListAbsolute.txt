@@ -1,0 +1,12 @@
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\bin\Debug\net6.0\Microservice_DotNET.Web.deps.json
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\bin\Debug\net6.0\Microservice_DotNET.Web.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\bin\Debug\net6.0\Microservice_DotNET.Web.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.AssemblyInfo.cs
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\refint\Microservice_DotNET.Web.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\Microservice_DotNET.Web.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Web\obj\Debug\net6.0\ref\Microservice_DotNET.Web.dll

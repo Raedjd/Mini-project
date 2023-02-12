@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oY8tYSgS9uswLEMRA/KKwO/jmTh+5fBjPrVEwhvo1J3JIHtP+pkJDcc1SgDQmFn6nIHhrmLJI/4nvmhsch9imw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi\\Desktop\\mini-project\\Microservice_DotNET\\Microservice_DotNET.SharedKernel\\Microservice_DotNET.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

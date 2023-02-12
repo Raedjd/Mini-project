@@ -1,0 +1,12 @@
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\bin\Debug\net6.0\Microservice_DotNET.Infrastructure.deps.json
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\bin\Debug\net6.0\Microservice_DotNET.Infrastructure.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\bin\Debug\net6.0\Microservice_DotNET.Infrastructure.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.AssemblyInfo.cs
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\refint\Microservice_DotNET.Infrastructure.dll
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\Microservice_DotNET.Infrastructure.pdb
+C:\Users\msi\Desktop\mini-project\Microservice_DotNET\Microservice_DotNET.Infrastructure\obj\Debug\net6.0\ref\Microservice_DotNET.Infrastructure.dll
