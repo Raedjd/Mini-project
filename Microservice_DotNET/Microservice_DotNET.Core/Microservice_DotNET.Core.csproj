@@ -16,9 +16,4 @@
     <ProjectReference Include="..\Microservice_DotNET.SharedKernel\Microservice_DotNET.SharedKernel.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Aggregates\ProductAggregate\Commands\DeleteProduct\" />
-    <Folder Include="Aggregates\ProductAggregate\Commands\UpdateProduct\" />
-  </ItemGroup>
-
 </Project>
