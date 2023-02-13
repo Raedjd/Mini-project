@@ -7,7 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Microservice_DotNET.SharedKernel\Microservice_DotNET.SharedKernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Aggregates\ProductAggregate\Commands\AddProduct\" />
+    <Folder Include="Aggregates\ProductAggregate\Commands\DeleteProduct\" />
+    <Folder Include="Aggregates\ProductAggregate\Commands\UpdateProduct\" />
   </ItemGroup>
 
 </Project>
