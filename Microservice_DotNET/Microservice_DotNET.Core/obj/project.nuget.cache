@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GEB7YtdH5ka8wXbFN04kT6SbOOvorbigFA4VbEdTcPUukZoNkSWFV2C8Uv8J3OEzYq/tUaTf9yc9yveEDjSD+Q==",
+  "dgSpecHash": "i6TpJ76Shzl3Z7beQIwtSUI7xGAjNiDQgl43MHyExUy9681EQvTp3JRkaNFKWaArcr6e+0BblSOWQQy9b6zApw==",
   "success": true,
   "projectFilePath": "C:\\Users\\msi\\Desktop\\mini-project\\Microservice_DotNET\\Microservice_DotNET.Core\\Microservice_DotNET.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
